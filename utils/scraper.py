@@ -25,3 +25,4 @@ def scrape_website(url, max_pages=10):
 
     crawl(url)
     return content_list
+
