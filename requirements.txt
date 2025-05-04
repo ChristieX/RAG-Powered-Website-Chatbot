@@ -1,6 +1,7 @@
 langchain
 langchain-text-splitters
-openai
+langchain_community
+langchain_ollama
 chromadb
 beautifulsoup4
 requests
